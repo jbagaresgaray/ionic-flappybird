@@ -33,14 +33,14 @@
     "cordova-plugin-media": "5.0.2",
     "core-js": "^2.5.4",
     "jquery": "^3.4.1",
-    "phaser": "^3.18.1",
+    "phaser": "^3.55.2",
     "rxjs": "~6.5.1",
     "tslib": "^1.9.0",
     "zone.js": "~0.8.29"
   },
   "devDependencies": {
     "@angular-devkit/architect": "~0.13.8",
-    "@angular-devkit/build-angular": "~0.13.8",
+    "@angular-devkit/build-angular": "~15.0.4",
     "@angular-devkit/core": "~7.3.8",
     "@angular-devkit/schematics": "~7.3.8",
     "@angular/cli": "~7.3.8",
